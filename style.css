@@ -1,0 +1,40 @@
+body{
+	background-color: #c8c9ca; 
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+a:hover {
+	color: orange;
+}
+h2{
+	color:  black;
+	front-size:  30px;
+	font-family: Times, serif;
+}
+
+.card1{
+	text-align: center;
+	background-color: #ffd867;
+	padding: 30px;
+	margin: 40px;
+}
+.mode{
+	text-align: center;
+	background-color: white;
+	padding: 30px;
+	margin: 40px;
+}
+.follow{
+	text-align: center;
+	background-color: #F7F9FC;
+	padding: 30px;
+	margin: 40px;
+}
+
+.container{
+	width: 600px;
+	margin: 0 auto;
+	color:  #C70039 ;
+}
